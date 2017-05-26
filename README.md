@@ -6,7 +6,7 @@ By: Kaden Shorf
 
 Description
 
-{This is an HTML file containing a link and an image. }
+{This is an HTML file containing css files aswell as bootstrap and index.html. }
 
 ##Setup/Installation Requirements
 
